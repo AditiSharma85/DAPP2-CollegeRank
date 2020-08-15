@@ -62,5 +62,14 @@ Step 6. Run the Front End Application<br>
 $ npm run dev <br>
 Visit this URL in your browser: http://localhost:3000<br>
 
+<h2>Testing:</h2>
+
+After Step 4. 
+$ truffle test
+<p align="center">
+  <img src="/src/images/testcases.PNG" alt="Class Diagram"/>
+</p>
+
+
 <h2>References:</h2>
 Tutorials from Dapp University By Gregory : https://www.dappuniversity.com/
