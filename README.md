@@ -24,7 +24,7 @@ This shows how user interacts which Dapp and further how various layers of DAPP 
 
 <h2>Class Diagram:</h2>
 <p align="center">
-  <img src="/src/images/CollegeRank_Class_diagram.png" alt="Class Diagram"/>
+  <img src="/src/images/CollegeRank_class_diagram.png" alt="Class Diagram"/>
 </p>
 <h2>How to Run this Project</h2>
 
