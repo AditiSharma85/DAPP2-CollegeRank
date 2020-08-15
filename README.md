@@ -1,4 +1,7 @@
 <h1>College Rank Dapp</h1>
+<p align="left">
+  <img src="/src/images/Brank Logo.PNG" alt="Logo"/>
+</p>
 
 Submitted By:Aditi Sharma
 StudentId : 101240263

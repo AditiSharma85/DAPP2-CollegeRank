@@ -3040,12 +3040,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x404509f89AE172195dD89BCFaA55712CE13C1fff",
-      "transactionHash": "0x67a4ce688dc8447f3f6aa641120f11bd6e825c921463774143bc311d84aa1a22"
+      "address": "0x31684a91bF20fFb3907f082A4f9eC49462f715E5",
+      "transactionHash": "0x2acc5e1698823898b1b00c2bb62ce4a618d38cbd04e0dee415d5cf6f3b6988f0"
     }
   },
   "schemaVersion": "3.0.2",
-  "updatedAt": "2020-08-13T17:52:03.003Z",
+  "updatedAt": "2020-08-15T17:32:15.844Z",
   "devdoc": {
     "methods": {}
   },
