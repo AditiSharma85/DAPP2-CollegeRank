@@ -19,42 +19,44 @@ A blockchain based decentralized college ranking system where alumis get to vote
 This shows how user interacts which Dapp and further how various layers of DAPP (Client side/Webpage,Metamask, blockchain and smart contract) interact with each other
 
 <p align="center">
-  <img src="./images/HighLevelArchitecture.PNG" alt="My cool logo"/>
+  <img src="/src/images/HighLevelArchitecture.PNG" alt="High Level Architecture"/>
 </p>
 
 <h2>How to Run this Project</h2>
 
-Follow the steps below to download, install, and run this project.
+Follow the steps below to download, install, and run this project.<br>
 
-Dependencies
-Install these prerequisites.
+Dependencies<br>
+Install these prerequisites.<br>
 
-NPM: https://nodejs.org
-Truffle: https://github.com/trufflesuite/truffle
-Ganache: http://truffleframework.com/ganache/
-Metamask: https://metamask.io/
+NPM: https://nodejs.org<br>
+Truffle: https://github.com/trufflesuite/truffle<br>
+Ganache: http://truffleframework.com/ganache/<br>
+Metamask: https://metamask.io/<br>
 
-Step 1. Clone the project
-git clone https://github.com/AditiSharma85/DAPP2-CollegeRank
+Step 1. Clone the project<br>
+git clone https://github.com/AditiSharma85/DAPP2-CollegeRank<br>
 
-Step 2. Install dependencies
-$ cd DAPP2-CollegeRank
-$ npm install
+Step 2. Install dependencies<br>
+$ cd DAPP2-CollegeRank<br>
+$ npm install<br>
 
-Step 3. Start Ganache
-Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance. 
+Step 3. Start Ganache<br>
+Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance. <br>
 
-Step 4. Compile & Deploy CollegeRank Smart Contract
-$ truffle migrate --reset You must migrate the CollegeRank smart contract each time your restart ganache.
+Step 4. Compile & Deploy CollegeRank Smart Contract<br>
+$ truffle migrate --reset <br>
+You must migrate the CollegeRank smart contract each time your restart ganache.<br>
 
-Step 5. Configure Metamask
+Step 5. Configure Metamask<br>
 
-Unlock Metamask
-Connect metamask to your local Etherum blockchain provided by Ganache.
-Import an account provided by ganache.
+Unlock Metamask<br>
+Connect metamask to your local Etherum blockchain provided by Ganache.<br>
+Import an account provided by ganache.<br>
 
-Step 6. Run the Front End Application
-$ npm run dev Visit this URL in your browser: http://localhost:3000
+Step 6. Run the Front End Application<br>
+$ npm run dev <br>
+Visit this URL in your browser: http://localhost:3000<br>
 
 <h2>References:</h2>
 Tutorials from Dapp University By Gregory : https://www.dappuniversity.com/
